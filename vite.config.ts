@@ -7,5 +7,5 @@ export default defineConfig({
   optimizeDeps: {
     exclude: ['lucide-react'],
   },
-  base: '/ai-design-generator/',
+  base: '/ai-design-studio/',
 });
